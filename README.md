@@ -32,12 +32,12 @@ cd fila-pilha-hospital
 3. Compile o programa:
 
 ```
-gcc main.c -o hospital
+gcc filha-pilha-hospital.c -o sistema_hospital
 ```
 
 4. Execute o programa:
 ```
-./hospital
+./sistema_hospital
 ```
 
 ## Autor
